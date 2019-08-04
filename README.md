@@ -13,7 +13,7 @@ that members of such a dictionary were mutated after insertion.
 
 Steps to reproduce:
 
-1. Clone the git repo at AppleFeedback-SwiftUITextFieldBinding
+1. Clone the git repo at https://github.com/noahsark769/AppleFeedback-SwiftUITextFieldBinding
 2. Open the xcodeproj
 3. Run the project on an iOS 13 simulator (iPhone XR)
 4. Tap on the TextField to start editing it
