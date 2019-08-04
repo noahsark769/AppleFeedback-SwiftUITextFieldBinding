@@ -1,5 +1,5 @@
 # AppleFeedback-SwiftUITextFieldBinding
-Project demonstrating an issue with TextField views in SwiftUI on Xcode 11 beta 5 with Catalina beta 5.
+Project demonstrating an issue with TextField views in SwiftUI on Xcode 11 beta 5 with Catalina beta 5. This has been submitted as FB6926006
 
 Description:
 
